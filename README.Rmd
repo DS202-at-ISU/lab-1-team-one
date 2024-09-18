@@ -23,4 +23,8 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 -Push the local changes to Git
 -Confirm the local changes of the repo are remote now in GitHub
 
+<<<<<<< HEAD
 This is a line from Rstudio - Alli 
+=======
+This is a line from RStudio
+>>>>>>> 3cf25df2e4fe80a207c19fa9d4dc78b0af4ed84a
