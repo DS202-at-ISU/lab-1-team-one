@@ -24,3 +24,5 @@ now in GitHub
 This is a line from RStudio
 
 new
+
+This is a new line from RStudio

@@ -26,3 +26,6 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 This is a line from RStudio
 
 new
+
+This is a new line from RStudio
+
