@@ -21,4 +21,4 @@ you are done with your submission.
 local changes to Git -Confirm the local changes of the repo are remote
 now in GitHub
 
-This is a line from RStudio
+This is a line from Rstudio
