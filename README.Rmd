@@ -23,11 +23,9 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 -Push the local changes to Git
 -Confirm the local changes of the repo are remote now in GitHub
 
-<<<<<<< HEAD
+
 This is a line from RStudio
 
 new
-=======
 
 This is a line from Rstudio 
->>>>>>> e72519073db00bb89c1212b2b03b481c441ddf3a

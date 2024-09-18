@@ -21,9 +21,8 @@ you are done with your submission.
 local changes to Git -Confirm the local changes of the repo are remote
 now in GitHub
 
-\<\<\<\<\<\<\< HEAD This is a line from RStudio
+This is a line from RStudio
 
-# new
+new
 
-This is a line from Rstudio \>\>\>\>\>\>\>
-e72519073db00bb89c1212b2b03b481c441ddf3a
+This is a line from Rstudio
