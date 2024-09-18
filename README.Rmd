@@ -17,3 +17,10 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed.
 Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
+
+-Clone the GitHUb repo
+-Make local changes, save and commit
+-Push the local changes to Git
+-Confirm the local changes of the repo are remote now in GitHub
+
+This is a line from Rstudio - Alli 
