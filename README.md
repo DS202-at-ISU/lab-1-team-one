@@ -26,3 +26,5 @@ This is a line from RStudio
 new
 
 This is a new line from RStudio
+
+This is a line from Rstudio
