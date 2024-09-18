@@ -1,6 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oocf_4W6)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
+
+git config –global user.email “<jtl6@iastate.edu>” git config –global
+user.name “Jack Larson”
 
 # Lab report \#1
 
@@ -17,3 +19,9 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+-Clone the GitHUb repo -Make local changes, save and commit -Push the
+local changes to Git -Confirm the local changes of the repo are remote
+now in GitHub
+
+This is a line from RStudio
