@@ -1,9 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
-git config –global user.email “<jtl6@iastate.edu>” git config –global
-user.name “Jack Larson”
-
 # Lab report \#1
 
 Follow the instructions posted at
