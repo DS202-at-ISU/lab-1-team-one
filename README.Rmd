@@ -38,7 +38,23 @@ This is a line from Rstudio
 This is a line from RStudio
 
 
-# 12.4
+Ananya:
 
-your own experience
+#12.1 
+Met all the prereqisites. As it was my first time using GIT, it took a bit of time to figure out how it works. 
+
+#12.2
+Created github repo.
+
+#12.3
+cloned the github classroom link with the laptop and was able to edit.Had no issue with the cloning.
+
+#12.4
+'This is a line from rstudio'
+
+#12.5
+Pushed updates to github successfully and pressed commit.
+
+#12.6
+I verified that my changes appeared on the readme file.
 
